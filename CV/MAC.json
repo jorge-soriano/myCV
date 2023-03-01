@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,7 +9,7 @@
       "name": "Jorge",
       "surnames": "Soriano",
       "title": "Analista programador en inaCátalog Mobility Sales by Inase",
-      "description": "Lo que más me motiva de mi trabajo es ver el resultado final de un proyecto desarrollado por uno mismo y que este a su vez le sea de utilidad para otras personas.\n\nEn diez años de experiencia he podido participar en distintas fases del ciclo de vida de un desarrollo (análisis, diseño, codificación, calidad, implantación, soporte), así como en otras labores técnicas (técnico de sistemas, administrador de bases de datos, administrador de servidores).\n\nEsto me ha servido para saber que lo que más me gusta es trabajar en las fases iniciales del desarrollo de software (análisis, diseño y codificación).\n",
+      "description": "",
       "avatar": {
         "alt": "Jorge2-copia.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/21/06a1bcd5-1869-4499-abae-0496b0fda89d_jorge2-copia.jpg"
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Comunidad Valenciana",
-        "municipality": "Ontinyent"
+        "municipality": "Ontinyent",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -50,9 +51,12 @@
         "URL": "https://wix-ux.com/",
         "authors": [
           {
+            "name": "",
+            "surnames": "",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": ""
       }
     ]
   },
@@ -304,16 +308,20 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan"
+        "name": "Catalan",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Valencian"
+        "name": "Valencian",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -325,19 +333,7 @@
       },
       {
         "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
+          "name": "jQuery",
           "type": "technology"
         }
       },
@@ -349,19 +345,43 @@
       },
       {
         "skill": {
-          "name": "Kubernetes",
+          "name": "Microsoft Power BI",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "NodeJS",
+          "name": "XCode",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "jQuery",
+          "name": "VMWare",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".Net Core",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
           "type": "technology"
         }
       },
@@ -373,13 +393,133 @@
       },
       {
         "skill": {
+          "name": "Sequelize",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "XAML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Xamarin",
           "type": "technology"
         }
       },
       {
         "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Swagger",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VB.NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "XML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLite",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "SOAP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "OpenApi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MVVM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
           "type": "technology"
         }
       },
@@ -397,67 +537,7 @@
       },
       {
         "skill": {
-          "name": "Sequelize",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Microsoft Power BI",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "REST",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "ASP.net",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Oracle",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "XCode",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "OpenApi",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Swagger",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "VMWare",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "VB.NET",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "XAML",
           "type": "technology"
         }
       },
@@ -469,55 +549,7 @@
       },
       {
         "skill": {
-          "name": "SQLServer",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": ".Net Core",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "XML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": ".NET",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
           "type": "technology"
         }
       },
@@ -529,31 +561,7 @@
       },
       {
         "skill": {
-          "name": "Postman",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MVVM",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQLite",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "TFS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Studio Code",
           "type": "technology"
         }
       }
@@ -566,6 +574,7 @@
         "startDate": "2022-10-01",
         "institution": {
           "name": "Consultoria Jobi",
+          "description": "",
           "URL": "https://www.consultoriajobi.com/curso-power-bi-desktop-1/",
           "image": {
             "alt": "logo_formaciones_jobi.jpg",
@@ -594,6 +603,7 @@
         "startDate": "2021-10-01",
         "institution": {
           "name": "Formadores IT",
+          "description": "",
           "URL": "http://www.formadoresit.es/formacion-en-empresas/formacion/mean-stack/frameworks-mean-stack/curso-react-y-redux/",
           "image": {
             "alt": "1519899100616.jpg",
@@ -622,6 +632,7 @@
         "startDate": "2020-10-01",
         "institution": {
           "name": "campusMVP",
+          "description": "",
           "URL": "https://www.campusmvp.es/certificados/jorge-soriano-gutierrez/4745",
           "image": {
             "alt": "1618828608377.jpg",
@@ -646,6 +657,7 @@
         "startDate": "2020-05-01",
         "institution": {
           "name": "campusMVP",
+          "description": "",
           "URL": "https://www.campusmvp.es/certificados/jorge-soriano-gutierrez/4732",
           "image": {
             "alt": "1618828608377.jpg",
@@ -678,6 +690,7 @@
         "startDate": "2019-05-01",
         "institution": {
           "name": "campusMVP",
+          "description": "",
           "URL": "https://www.campusmvp.es/certificados/jorge-soriano-gutierrez/4726",
           "image": {
             "alt": "1618828608377.jpg",
@@ -702,6 +715,7 @@
         "startDate": "2018-07-01",
         "institution": {
           "name": "Mobiliza Academy",
+          "description": "",
           "URL": "https://mobilizaacademy.com/cursos/metodologias-agiles/master-scrum-manager-certificacion-oficial-virtual/",
           "image": {
             "alt": "mobiliza-academy-logo.png",
@@ -716,6 +730,7 @@
         "startDate": "2016-11-01",
         "institution": {
           "name": "Centro de Formación Permanente de la Universidad Politécnica de Valencia",
+          "description": "",
           "URL": "https://www.cfp.upv.es/formacion-permanente/curso/virtualizacion-sistemas-vmware-vsphere-7-0-instalacion-configuracion-administracion-edicion-online_69496.html",
           "image": {
             "alt": "upv+cfp3.png",
@@ -736,6 +751,7 @@
         "startDate": "2013-07-01",
         "institution": {
           "name": "Universidad Politécnica de Valencia",
+          "description": "",
           "URL": "https://www.upv.es/estudios/ciclo/tetsinf-111-es.html",
           "image": {
             "alt": "marca_UPV_secundaria_negro300.png",
@@ -832,6 +848,7 @@
         "startDate": "2012-04-01",
         "institution": {
           "name": "Centro de Formación Permanente de la Universidad Politécnica de Valencia",
+          "description": "",
           "URL": "https://www.cfp.upv.es/formacion-permanente/curso/introduccion-programacion-sitios-web-dinamicos-php-mysql_30662.html",
           "image": {
             "alt": "upv+cfp3.png",
@@ -860,6 +877,7 @@
         "startDate": "2009-07-01",
         "institution": {
           "name": "Centro de Formación Permanente de la Universidad Politécnica de Valencia",
+          "description": "",
           "URL": "https://www.cfp.upv.es/formacion-permanente/curso/instalacion-salas-informaticas_33226.html",
           "image": {
             "alt": "upv+cfp3.png",
@@ -940,6 +958,27 @@
         "Software Architect",
         "VP of Engineering"
       ]
-    }
+    },
+    "status": "openToOffers"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "Visual Studio",
+        "type": "technology"
+      },
+      {
+        "name": ".NET",
+        "type": "technology"
+      }
+    ]
   }
 }
