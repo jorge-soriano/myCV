@@ -1,62 +1,55 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Jorge",
       "surnames": "Soriano",
       "title": "Analista programador en inaCátalog Mobility Sales by Inase",
-      "description": "",
+      "description": "Lo que más me motiva de mi trabajo es ver el resultado final de un proyecto desarrollado por uno mismo y que este a su vez le sea de utilidad para otras personas.\n\nEn diez años de experiencia he podido participar en distintas fases del ciclo de vida de un desarrollo (análisis, diseño, codificación, calidad, implantación, soporte), así como en otras labores técnicas (técnico de sistemas, administrador de bases de datos, administrador de servidores).\n\nEsto me ha servido para saber que lo que más me gusta es trabajar en las fases iniciales del desarrollo de software (análisis, diseño y codificación).\n",
       "avatar": {
-        "alt": "Jorge2-copia.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/21/06a1bcd5-1869-4499-abae-0496b0fda89d_jorge2-copia.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/21/06a1bcd5-1869-4499-abae-0496b0fda89d_jorge2-copia.jpg",
+        "alt": "Jorge2-copia.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJVfvFYP93YQ0RMb048rP3iQk)",
         "country": "España",
         "region": "Comunidad Valenciana",
-        "municipality": "Ontinyent",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Ontinyent"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "other",
-        "URL": "http://www.sorianogutierrez.es/"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/jsoriano88/"
-      }
-    ],
     "recommendations": [
       {
         "title": "Variable not found",
         "type": "other",
         "URL": "https://www.variablenotfound.com/",
+        "summary": "El blog de José M. Aguilar\nArtículos, tutoriales, trucos, curiosidades, reflexiones y links sobre programación web\nASP.NET Core, MVC, Blazor, SignalR, Entity Framework, C#, Azure, Javascript...",
         "authors": [
           {
             "name": "José M.",
             "surnames": "Aguilar",
             "title": "Author"
           }
-        ],
-        "summary": "El blog de José M. Aguilar\nArtículos, tutoriales, trucos, curiosidades, reflexiones y links sobre programación web\nASP.NET Core, MVC, Blazor, SignalR, Entity Framework, C#, Azure, Javascript..."
+        ]
       },
       {
         "title": "Wix UX",
         "type": "other",
-        "URL": "https://wix-ux.com/",
-        "authors": [
-          {
-            "name": "",
-            "surnames": "",
-            "title": "Author"
-          }
-        ],
-        "summary": ""
+        "URL": "https://wix-ux.com/"
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jsoriano88/"
+      },
+      {
+        "type": "other",
+        "URL": "http://www.sorianogutierrez.es/",
+        "description": "Mi web"
       }
     ]
   },
@@ -66,8 +59,8 @@
         "organization": {
           "name": "inaCátalog Mobility Sales by Inase ",
           "image": {
-            "alt": "logo_inacatalog.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/2f180c83-4899-4268-9139-f094936da922_logo_inacatalog.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/2f180c83-4899-4268-9139-f094936da922_logo_inacatalog.jpg",
+            "alt": "logo_inacatalog.jpg"
           },
           "URL": "https://www.inacatalog.com/"
         },
@@ -209,8 +202,8 @@
         "organization": {
           "name": "Nudisco S.L. ",
           "image": {
-            "alt": "nudisco.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/5fe6192f-5784-4e0c-9771-a2c1662f3287_nudisco.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/5fe6192f-5784-4e0c-9771-a2c1662f3287_nudisco.png",
+            "alt": "nudisco.png"
           },
           "URL": "https://www.nudisco.com/web/"
         },
@@ -241,8 +234,8 @@
         "organization": {
           "name": "Discom Technology ",
           "image": {
-            "alt": "1562337210805.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/8f2c578c-f05c-452a-be9e-1daec912c7cb_1562337210805.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/8f2c578c-f05c-452a-be9e-1daec912c7cb_1562337210805.jpg",
+            "alt": "1562337210805.jpg"
           },
           "URL": "https://www.discomtec.es/"
         },
@@ -285,8 +278,8 @@
         "organization": {
           "name": "Corts Valencianes ",
           "image": {
-            "alt": "logo.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/cc879cfb-4cfa-481b-a0d1-c9dcdd313100_logo.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/cc879cfb-4cfa-481b-a0d1-c9dcdd313100_logo.svg",
+            "alt": "logo.svg"
           },
           "URL": "https://www.cortsvalencianes.es/es"
         },
@@ -308,56 +301,25 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan",
+        "name": "CA",
+        "fullName": "Catalán / Valenciano",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "Valencian",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "jQuery",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Microsoft Power BI",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "XCode",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "VMWare",
+          "name": ".NET",
           "type": "technology"
         }
       },
@@ -369,187 +331,7 @@
       },
       {
         "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Studio Code",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Studio",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Sequelize",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "REST",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "XAML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Postman",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Xamarin",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Oracle",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Swagger",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "VB.NET",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "XML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQLite",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SOAP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "OpenApi",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQLServer",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": ".NET",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MVVM",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "WPF",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SoapUI",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "ASP.net",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "WinForms",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -561,7 +343,217 @@
       },
       {
         "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MVVM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Power BI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "OpenApi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SOAP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLite",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sequelize",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SoapUI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Swagger",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "TFS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VB.NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VMWare",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WPF",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WinForms",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "XAML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "XCode",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "XML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Xamarin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
           "type": "technology"
         }
       }
@@ -570,44 +562,14 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": false,
-        "name": "Power BI",
-        "startDate": "2022-10-01",
-        "institution": {
-          "name": "Consultoria Jobi",
-          "description": "",
-          "URL": "https://www.consultoriajobi.com/curso-power-bi-desktop-1/",
-          "image": {
-            "alt": "logo_formaciones_jobi.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/cb45a492-abc7-4c7f-ab13-2a4bebfdd726_logo_formaciones_job.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Microsoft Power BI",
-            "type": "technology"
-          },
-          {
-            "name": "Power Pivot",
-            "type": "technology"
-          },
-          {
-            "name": "Power Query",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": false,
         "name": " React - Redux / Node JS",
         "startDate": "2021-10-01",
         "institution": {
           "name": "Formadores IT",
-          "description": "",
           "URL": "http://www.formadoresit.es/formacion-en-empresas/formacion/mean-stack/frameworks-mean-stack/curso-react-y-redux/",
           "image": {
-            "alt": "1519899100616.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/40f8d865-98db-49c6-bca2-33479bdca763_1519899100616.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/40f8d865-98db-49c6-bca2-33479bdca763_1519899100616.jpg",
+            "alt": "1519899100616.jpg"
           }
         },
         "linkedCompetences": [
@@ -628,15 +590,38 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": false,
+        "name": "Desarrollo Web con ASP.NET Core 2 MVC",
+        "startDate": "2019-05-01",
+        "institution": {
+          "name": "campusMVP",
+          "URL": "https://www.campusmvp.es/certificados/jorge-soriano-gutierrez/4726",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/68ac5318-b885-4329-bf70-ec9049411d3f_1618828608377.jpg",
+            "alt": "1618828608377.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "ASP.net",
+            "type": "technology"
+          },
+          {
+            "name": "MVC",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
         "name": "Docker y Kubernetes: desarrollo y despliegue de aplicaciones basadas en contenedores",
         "startDate": "2020-10-01",
         "institution": {
           "name": "campusMVP",
-          "description": "",
           "URL": "https://www.campusmvp.es/certificados/jorge-soriano-gutierrez/4745",
           "image": {
-            "alt": "1618828608377.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/b8cdf006-149c-480c-a91e-10a05bbf9650_1618828608377.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/b8cdf006-149c-480c-a91e-10a05bbf9650_1618828608377.jpg",
+            "alt": "1618828608377.jpg"
           }
         },
         "linkedCompetences": [
@@ -657,11 +642,10 @@
         "startDate": "2020-05-01",
         "institution": {
           "name": "campusMVP",
-          "description": "",
           "URL": "https://www.campusmvp.es/certificados/jorge-soriano-gutierrez/4732",
           "image": {
-            "alt": "1618828608377.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/14b7494c-4f9d-45fc-873a-06d624967ab2_1618828608377.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/14b7494c-4f9d-45fc-873a-06d624967ab2_1618828608377.jpg",
+            "alt": "1618828608377.jpg"
           }
         },
         "linkedCompetences": [
@@ -684,78 +668,16 @@
         ]
       },
       {
-        "studyType": "unaccredited",
-        "degreeAchieved": false,
-        "name": "Desarrollo Web con ASP.NET Core 2 MVC",
-        "startDate": "2019-05-01",
-        "institution": {
-          "name": "campusMVP",
-          "description": "",
-          "URL": "https://www.campusmvp.es/certificados/jorge-soriano-gutierrez/4726",
-          "image": {
-            "alt": "1618828608377.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/68ac5318-b885-4329-bf70-ec9049411d3f_1618828608377.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "ASP.net",
-            "type": "technology"
-          },
-          {
-            "name": "MVC",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": false,
-        "name": "Scrum Master",
-        "startDate": "2018-07-01",
-        "institution": {
-          "name": "Mobiliza Academy",
-          "description": "",
-          "URL": "https://mobilizaacademy.com/cursos/metodologias-agiles/master-scrum-manager-certificacion-oficial-virtual/",
-          "image": {
-            "alt": "mobiliza-academy-logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/46cf4a96-2462-4151-9a2c-9d8cf4120d27_mobiliza-academy-log.png"
-          }
-        }
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": false,
-        "name": "Virtualización de Sistemas con VMware vSphere",
-        "startDate": "2016-11-01",
-        "institution": {
-          "name": "Centro de Formación Permanente de la Universidad Politécnica de Valencia",
-          "description": "",
-          "URL": "https://www.cfp.upv.es/formacion-permanente/curso/virtualizacion-sistemas-vmware-vsphere-7-0-instalacion-configuracion-administracion-edicion-online_69496.html",
-          "image": {
-            "alt": "upv+cfp3.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/78d62ee0-47e3-4269-8210-19f515cf466e_upvcfp3.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "VMWare",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "Ingeniero técnico en informática de gestión",
         "startDate": "2013-07-01",
         "institution": {
           "name": "Universidad Politécnica de Valencia",
-          "description": "",
           "URL": "https://www.upv.es/estudios/ciclo/tetsinf-111-es.html",
           "image": {
-            "alt": "marca_UPV_secundaria_negro300.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/e403b601-bec0-40ee-83df-fc5a800bce4b_marca_upv_secundaria.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/e403b601-bec0-40ee-83df-fc5a800bce4b_marca_upv_secundaria.png",
+            "alt": "marca_UPV_secundaria_negro300.png"
           }
         },
         "linkedCompetences": [
@@ -844,15 +766,28 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": false,
+        "name": "Instalación de Salas Informáticas",
+        "startDate": "2009-07-01",
+        "institution": {
+          "name": "Centro de Formación Permanente de la Universidad Politécnica de Valencia",
+          "URL": "https://www.cfp.upv.es/formacion-permanente/curso/instalacion-salas-informaticas_33226.html",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/cd1dc440-072c-40dc-b235-d6bbe40885e1_upvcfp3.png",
+            "alt": "upv+cfp3.png"
+          }
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
         "name": "Introducción a la Programación de Sitios Web Dinámicos con PHP y MySQL",
         "startDate": "2012-04-01",
         "institution": {
           "name": "Centro de Formación Permanente de la Universidad Politécnica de Valencia",
-          "description": "",
           "URL": "https://www.cfp.upv.es/formacion-permanente/curso/introduccion-programacion-sitios-web-dinamicos-php-mysql_30662.html",
           "image": {
-            "alt": "upv+cfp3.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/fa84d3d7-2edf-47cd-a886-95359370a8b5_upvcfp3.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/fa84d3d7-2edf-47cd-a886-95359370a8b5_upvcfp3.png",
+            "alt": "upv+cfp3.png"
           }
         },
         "linkedCompetences": [
@@ -873,16 +808,83 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": false,
-        "name": "Instalación de Salas Informáticas",
-        "startDate": "2009-07-01",
+        "name": "Power BI",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "Consultoria Jobi",
+          "URL": "https://www.consultoriajobi.com/curso-power-bi-desktop-1/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/cb45a492-abc7-4c7f-ab13-2a4bebfdd726_logo_formaciones_job.jpg",
+            "alt": "logo_formaciones_jobi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Microsoft Power BI",
+            "type": "technology"
+          },
+          {
+            "name": "Power Pivot",
+            "type": "technology"
+          },
+          {
+            "name": "Power Query",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Scrum Master",
+        "startDate": "2018-07-01",
+        "institution": {
+          "name": "Mobiliza Academy",
+          "URL": "https://mobilizaacademy.com/cursos/metodologias-agiles/master-scrum-manager-certificacion-oficial-virtual/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/46cf4a96-2462-4151-9a2c-9d8cf4120d27_mobiliza-academy-log.png",
+            "alt": "mobiliza-academy-logo.png"
+          }
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Virtualización de Sistemas con VMware vSphere",
+        "startDate": "2016-11-01",
         "institution": {
           "name": "Centro de Formación Permanente de la Universidad Politécnica de Valencia",
-          "description": "",
-          "URL": "https://www.cfp.upv.es/formacion-permanente/curso/instalacion-salas-informaticas_33226.html",
+          "URL": "https://www.cfp.upv.es/formacion-permanente/curso/virtualizacion-sistemas-vmware-vsphere-7-0-instalacion-configuracion-administracion-edicion-online_69496.html",
           "image": {
-            "alt": "upv+cfp3.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/cd1dc440-072c-40dc-b235-d6bbe40885e1_upvcfp3.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/78d62ee0-47e3-4269-8210-19f515cf466e_upvcfp3.png",
+            "alt": "upv+cfp3.png"
           }
+        },
+        "linkedCompetences": [
+          {
+            "name": "VMWare",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Atención al detalle",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de abstracción",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
         }
       }
     ]
@@ -891,9 +893,12 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/jsoriano88/"
+          "URL": "https://www.linkedin.com/in/jsoriano88/",
+          "type": "linkedin"
         }
+      ],
+      "contactMails": [
+        "jsg182@gmail.com"
       ]
     },
     "preferences": {
@@ -961,10 +966,10 @@
     },
     "status": "openToOffers"
   },
-  "asgardPreferences": {
+  "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Git",
+        "name": ".NET",
         "type": "technology"
       },
       {
@@ -972,12 +977,24 @@
         "type": "technology"
       },
       {
-        "name": "Visual Studio",
+        "name": "Git",
         "type": "technology"
       },
       {
-        "name": ".NET",
+        "name": "Visual Studio",
         "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "En mi trabajo ideal participo en las fases iniciales del ciclo de vida del desarrollo. En él se innova de forma continua con nuevas tecnologías y se está en constante aprendizaje. Además, valoro mucho trabajar con un equipo que tenga inquietudes similares a las mías, que quieran ampliar sus conocimientos compartiendo aquello que saben.",
+    "goodPractices": "Soy devoto de la refactorización. Cuanto más simple y claro sea el código, mejor. En el último proyecto que heredé de un alumno de prácticas, quité más de mil líneas de código al tener que revisar y ampliar la funcionalidad. \n\nEn cuanto a metodología, estos últimos años he estado trabajando con un híbrido entre KANBAN y SCRUM.\n\nSoy de esas personas que intenta documentar todo lo que hace. Pienso que si una documentación es clara y accesible, cualquiera será capaz de hacer la tarea descrita.",
+    "bookmarks": [
+      {
+        "name": "Variable not found",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/29/c54ff97f-8ac8-4c26-8ec3-8c8f6ce7c983_logo2.png"
+      },
+      {
+        "name": "Wix UX",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/23/b3a35024-8941-4b46-9751-11589032d97a_wixux.png"
       }
     ]
   }
